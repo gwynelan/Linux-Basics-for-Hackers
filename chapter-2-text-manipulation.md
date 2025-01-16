@@ -121,7 +121,7 @@ By the end of this chapter, you should be able to:
 - Combine commands for advanced text processing.
 
 ### Next Steps:
-- Move to [Chapter 3: Analyzing and Managing Networks](#) to learn about network configuration and monitoring in Linux.
+- Move to [Chapter 3: Analyzing and Managing Networks](chapter-3-analyzing-and-managing-networks.md) to learn about network configuration and monitoring in Linux.
 
 ---
 
