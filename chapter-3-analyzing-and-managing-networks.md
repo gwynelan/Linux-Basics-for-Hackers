@@ -181,7 +181,7 @@ By the end of this chapter, you should be able to:
 - Manage routes and DNS resolution.
 
 ### Next Steps:
-- Move to [Chapter 4: Adding and Removing Software](#) to learn about managing packages in Linux.
+- Move to [Chapter 4: Adding and Removing Software](chapter-4-adding-and-removing-software.md) to learn about managing packages in Linux.
 
 ---
 
