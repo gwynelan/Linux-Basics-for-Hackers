@@ -1,4 +1,4 @@
-README.MD
+
 ---
 
 # 🐧 **Linux Basics for Hackers**  
@@ -117,5 +117,3 @@ Found a typo? Have an idea for improvement? Contributions are welcome! Create a 
 Happy Hacking! 🚀
 
 --- 
-
-Let me know if you'd like any specific changes, and I'll refine it further!
