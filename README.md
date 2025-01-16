@@ -4,7 +4,7 @@
 # 🐧 **Linux Basics for Hackers**  
 *Master Linux Skills for Cybersecurity and Hacking*
 
-> "You don't get what you wish for. You get what you work for." – Unknown  
+> "You don't get what you wish for. You get what you work for." – Daniel Milstein  
 
 Welcome to **Linux Basics for Hackers**! This repository is your ultimate guide to mastering Linux, tailored for aspiring ethical hackers, penetration testers, and cybersecurity professionals. Start your journey today and unlock the potential of Linux for hacking and cybersecurity!
 
