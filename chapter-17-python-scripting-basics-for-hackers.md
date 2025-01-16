@@ -221,6 +221,7 @@ By the end of this chapter, you should be able to:
 
 ### Next Steps:
 - Explore advanced scripting concepts and integrate Python with tools like Metasploit.
+- Move to [Excercise Time](exercises.md) to explore scripting in Python for automation and hacking.
 
 ---
 
