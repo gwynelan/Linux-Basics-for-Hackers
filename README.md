@@ -27,25 +27,24 @@ This repository contains everything from Linux fundamentals to advanced hacking 
 
 ## 🗂️ **Table of Contents**
 
-1. [Introduction](chapter-1-introduction.md)
-2. [Getting Started with the Basics](chapter-2-getting-started-with-the-basics.md)
-3. [Text Manipulation](chapter-3-text-manipulation.md)
-4. [Analyzing and Managing Networks](chapter-4-analyzing-and-managing-networks.md)
-5. [Adding and Removing Software](chapter-5-adding-and-removing-software.md)
-6. [Controlling File and Directory Permissions](chapter-6-controlling-file-and-directory-permissions.md)
-7. [Process Management](chapter-7-process-management.md)
-8. [Managing User Environment Variables](chapter-8-managing-user-environment-variables.md)
-9. [Bash Scripting](chapter-9-bash-scripting.md)
-10. [Compressing and Archiving](chapter-10-compressing-and-archiving.md)
-11. [Filesystem and Storage Device Management](chapter-11-filesystem-and-storage-device-management.md)
-12. [The Logging System](chapter-12-the-logging-system.md)
-13. [Using and Abusing Services](chapter-13-using-and-abusing-services.md)
-14. [Becoming Secure and Anonymous](chapter-14-becoming-secure-and-anonymous.md)
-15. [Understanding and Inspecting Wireless Networks](chapter-15-understanding-and-inspecting-wireless-networks.md)
-16. [Managing the Linux Kernel and Loadable Kernel Modules](chapter-16-managing-the-linux-kernel-and-loadable-kernel-modules.md)
-17. [Automating Tasks with Job Scheduling](chapter-17-automating-tasks-with-job-scheduling.md)
-18. [Python Scripting Basics for Hackers](chapter-18-python-scripting-basics-for-hackers.md)
-19. [Exercises](exercises.md)
+1. [Getting Started with the Basics](chapter-1-getting-started-with-the-basics.md)
+2. [Text Manipulation](chapter-2-text-manipulation.md)
+3. [Analyzing and Managing Networks](chapter-3-analyzing-and-managing-networks.md)
+4. [Adding and Removing Software](chapter-4-adding-and-removing-software.md)
+5. [Controlling File and Directory Permissions](chapter-5-controlling-file-and-directory-permissions.md)
+6. [Process Management](chapter-6-process-management.md)
+7. [Managing User Environment Variables](chapter-7-managing-user-environment-variables.md)
+8. [Bash Scripting](chapter-8-bash-scripting.md)
+9. [Compressing and Archiving](chapter-9-compressing-and-archiving.md)
+10. [Filesystem and Storage Device Management](chapter-10-filesystem-and-storage-device-management.md)
+11. [The Logging System](chapter-11-the-logging-system.md)
+12. [Using and Abusing Services](chapter-12-using-and-abusing-services.md)
+13. [Becoming Secure and Anonymous](chapter-13-becoming-secure-and-anonymous.md)
+14. [Understanding and Inspecting Wireless Networks](chapter-14-understanding-and-inspecting-wireless-networks.md)
+15. [Managing the Linux Kernel and Loadable Kernel Modules](chapter-15-managing-the-linux-kernel-and-loadable-kernel-modules.md)
+16. [Automating Tasks with Job Scheduling](chapter-16-automating-tasks-with-job-scheduling.md)
+17. [Python Scripting Basics for Hackers](chapter-17-python-scripting-basics-for-hackers.md)
+18. [Exercises](exercises.md)
 
 ---
 
@@ -116,4 +115,4 @@ Found a typo? Have an idea for improvement? Contributions are welcome! Create a 
 
 Happy Hacking! 🚀
 
---- 
+---
