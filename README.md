@@ -84,7 +84,7 @@ This repository contains everything from Linux fundamentals to advanced hacking 
    git clone https://github.com/your-repo/linux-basics-for-hackers.git
    ```
 2. Navigate to each chapter's `.md` file to start learning.
-3. Practice exercises provided in [Exercises](chapter-19-exercises.md).
+3. Practice exercises provided in [Exercises](exercises.md).
 
 ---
 
