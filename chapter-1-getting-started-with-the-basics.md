@@ -134,7 +134,7 @@ By the end of this chapter, you should be able to:
 - Use manual pages to explore advanced options for commands.
 
 ### Next Steps:
-- Move to [Chapter 2: Text Manipulation](#) to learn about processing and analyzing text files in Linux.
+- Move to [Chapter 2: Text Manipulation](chapter-2-text-manipulation) to learn about processing and analyzing text files in Linux.
 
 ---
 
