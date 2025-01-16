@@ -58,14 +58,6 @@ This repository contains everything from Linux fundamentals to advanced hacking 
 
 ---
 
-## 📌 **Who Is This For?**
-
-- Aspiring **ethical hackers** and **cybersecurity professionals**.
-- **Beginners** eager to learn Linux from the ground up.
-- **Intermediate users** seeking advanced Linux and hacking skills.
-
----
-
 ## 🛠️ **Technologies Covered**
 
 - **Linux Distributions**: Kali Linux, Ubuntu, CentOS.
@@ -73,29 +65,6 @@ This repository contains everything from Linux fundamentals to advanced hacking 
 - **Tools**: Wireshark, Metasploit, Nmap, and more.
 - **Networking**: TCP/IP, DNS, and Wireless Networks.
 - **Security**: File permissions, firewalls, and encryption.
-
----
-
-## 💡 **How to Use This Repository**
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/AviSec1337/Linux-Basics-for-Hackers.git
-   ```
-2. Navigate to each chapter's `.md` file to start learning.
-3. Practice exercises provided in [Exercises](exercises.md).
-
----
-
-## 🌟 **Motivation Quote**
-
-> "You don't get what you wish for. You get what you work for." – Unknown  
-
----
-
-## 🧑‍💻 **Start Hacking Today!**
-
-This journey will be challenging but rewarding. Dive into each chapter, practice the exercises, and build your skills as a hacker. Remember, the key to mastery is **consistent effort and practice**.
 
 ---
 
