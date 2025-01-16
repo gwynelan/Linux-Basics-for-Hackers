@@ -204,7 +204,7 @@ By the end of this chapter, you should be able to:
 - Install software from source code.
 
 ### Next Steps:
-- Move to [Chapter 5: Controlling File and Directory Permissions](#) to learn about securing files and directories in Linux.
+- Move to [Chapter 5: Controlling File and Directory Permissions](chapter-5-controlling-file-and-directory-permissions.md) to learn about securing files and directories in Linux.
 
 ---
 
