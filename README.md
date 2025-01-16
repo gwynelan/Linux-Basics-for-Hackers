@@ -1,5 +1,4 @@
-Here's a beautifully crafted and attractive `README.md` file designed to inspire and engage aspiring hackers, complete with motivational quotes, clear structure, and a focus on guiding learners in their journey.
-
+README.MD
 ---
 
 # 🐧 **Linux Basics for Hackers**  
