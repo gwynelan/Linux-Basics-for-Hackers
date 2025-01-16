@@ -1,4 +1,4 @@
-# Chapter 18: Exercises
+# Exercises
 
 ## Overview
 
