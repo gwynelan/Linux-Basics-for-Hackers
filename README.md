@@ -45,7 +45,7 @@ This repository contains everything from Linux fundamentals to advanced hacking 
 16. [Managing the Linux Kernel and Loadable Kernel Modules](chapter-16-managing-the-linux-kernel-and-loadable-kernel-modules.md)
 17. [Automating Tasks with Job Scheduling](chapter-17-automating-tasks-with-job-scheduling.md)
 18. [Python Scripting Basics for Hackers](chapter-18-python-scripting-basics-for-hackers.md)
-19. [Exercises](chapter-19-exercises.md)
+19. [Exercises](exercises.md)
 
 ---
 
