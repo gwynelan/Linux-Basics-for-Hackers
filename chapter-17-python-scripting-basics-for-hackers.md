@@ -221,7 +221,7 @@ By the end of this chapter, you should be able to:
 
 ### Next Steps:
 - Explore advanced scripting concepts and integrate Python with tools like Metasploit.
-- Move to [Excercise Time](exercises.md) to test your Python and cybersecurity skills.
+- Move to [Excercises](exercises.md) to test your Python and cybersecurity skills.
 
 ---
 
