@@ -81,7 +81,7 @@ This repository contains everything from Linux fundamentals to advanced hacking 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/linux-basics-for-hackers.git
+   git clone https://github.com/AviSec1337/Linux-Basics-for-Hackers.git
    ```
 2. Navigate to each chapter's `.md` file to start learning.
 3. Practice exercises provided in [Exercises](exercises.md).
